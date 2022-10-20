@@ -24,14 +24,14 @@ audio {
     position: absolute;
     display: inline-block;
     left: 35%; 
-    top: 75vh;
+    top: 65vh;
     -webkit-transition: all 0.1s ease-out;
   }
   #yes{
     position: absolute;
     display: inline-block;
     left: 70%; 
-    top: 75vh;
+    top: 65vh;
     -webkit-transition: all 0.3s ease-out;
   }
 
