@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Chắc là',
     reasonPlaceholder: 'Gõ bất kì nội dung gì chị nghĩ vào đây nha...',
     btnReply: 'Send',
-    reply: 'Chị Hương ơi... Em chúc chị ngày càng trẻ trung, dồi dào sức khoẻ và tràn đầy năng lượng trong cuộc sống.🥳',
+    reply: 'Chị Hương ơi... Hôm nay là 20/10 rồi ấy, em chúc chị ngày càng trẻ trung, dồi dào sức khoẻ và tràn đầy năng lượng trong cuộc sống.🥳',
     mess: 'Ngày 20/10 thật vui nha chị',
     messDesc: '🥳',
     btnAccept: 'Ok',
