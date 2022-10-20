@@ -27,7 +27,7 @@ const CONFIG = {
     ',
     mess: 'Ngày 20/10 thật vui nha chị',
     messTitle: "Gửi Chị Hương",
-    messDesc: '🥳',
+    messDesc: 'Chúc chị 20/10 vui vẻ🥳',
     btnAccept: 'Ok',
 }
 
