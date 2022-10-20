@@ -16,7 +16,7 @@ const CONFIG = {
     Mình đi, bỗng thấy hay hay\n\
     Dặn lòng tự hỏi hôm nay ngày gì?\n\
     Thì ra ngày lễ chứ chi\n\
-    Nhìn qua ghế chị mà đâu mất rồi\n\
+    Nhìn sang phòng chị mà đâu mất rồi\n\
     ',
     poem2:'    Ngồi đây cầm bút vẽ vời\n\
     Viết thơ chúc chị những lời đẹp tươi \n\
