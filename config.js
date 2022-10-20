@@ -1,21 +1,16 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '哈囉 ',
-    introDesc: `今天是個蠻特別的日子。。。我有事想跟你講的，你想不想聽🤭`,
+    introTitle: 'Chị Hương ơi, ',
+    introDesc: `Hôm nay… là ngày 20/10 rồi ấy, Em có lời muốn nói với chị…`,
     btnIntro: 'OK',
-    title: '今天是你的生日，你猜猜我在想什麼的啊😎',
-    desc: 'Uhm，讓我知道你的答案。^_^> ',
-    btnYes: 'uhm, 我猜猜 ',
-    btnNo: '不知道啦，猜不出來',
-    question:'也許是',
-    reasonPlaceholder: '在這兒輸入你的答案...',
+    title: 'Hôm nay, là ngày Phụ nữ Việt Nam, em chỉ muốn nói là… ',
+    desc: 'Mà đố chị, em định nói gì đấy? 😉 ',
+    btnYes: 'Uhm, để đoán thử ',
+    btnNo: 'Không biết, đoán không ra',
+    question:'Chắc là',
+    reasonPlaceholder: 'Gõ bất kì nội dung gì chị nghĩ vào đây nha...',
     btnReply: 'Send',
-    reply: '我只想跟你說一句話就是 祝你生日快樂，趕早達到自己的目標，每天都愉快、笑著🤜🤛。27歲是個不小也不大的年齡，加油👍',
-    mess: ' Hôm nay, đường phố bán bông\tHôm nay, đường phố bán bông\n\
-    Rộn ràng ……, hoa hồng trên tay\tRộn ràng ……, hoa hồng trên tay\n\
-    Mình đi, cũng thấy hay hay\tRộn ràng ……, hoa hồng trên tay\n\
-    Dặn lòng tự hỏi hôm nay ngày gì\tRộn ràng ……, hoa hồng trên tay?\
-    ',
+    reply: 'Chị Hương ơi... Hôm nay là 20/10 rồi ấy, em chúc chị ngày càng trẻ trung, dồi dào sức khoẻ và tràn đầy năng lượng trong cuộc sống.🥳',
     poem1:'    Hôm nay, đường phố bán bông\n\
     Rộn ràng ai cũng đóa hồng trên tay\n\
     Mình đi, bỗng thấy hay hay\n\
@@ -30,7 +25,9 @@ const CONFIG = {
     Chúc cho cuộc sống thuận hòa\n\
     Ngập tràn năng lượng đong đầy yêu thương.\n\
     ',
+    mess: 'Ngày 20/10 thật vui nha chị',
     messTitle: "Gửi Chị Hương",
-    messDesc: 'Chúc chị Hương 20/10 thật vui vẻ 🥳',
-    btnAccept: 'Ok lun',
+    messDesc: '🥳',
+    btnAccept: 'Ok',
 }
+
