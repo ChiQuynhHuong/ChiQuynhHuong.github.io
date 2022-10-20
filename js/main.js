@@ -121,11 +121,12 @@ $('#yes').click(function() {
     }).then((result) => {
         if (result.value) {
             Swal.fire({
-                width: 900,
+                width: 1000,
                 confirmButtonText: CONFIG.btnAccept,
                 background: '#fff url("img/iput-bg.jpg")',
-                title: CONFIG.mess,
-                text: CONFIG.messDesc,
+                // title: CONFIG.mess,
+                html: "<div class='container'><div class='hello'>" + CONFIG.poem1 + "</div> <div class='hello'>" + CONFIG.poem2 + "</div> </div> <div class='hello1'>"+CONFIG.messDesc + "</div>",
+                title: CONFIG.messTitle,
                 confirmButtonColor: '#83d0c9',
             })
         }
